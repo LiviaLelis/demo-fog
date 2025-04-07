@@ -1,0 +1,6 @@
+hw
+pasta/
+*.c
+
+!hw.c
+!arroz.c
